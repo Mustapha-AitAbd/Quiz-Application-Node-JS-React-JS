@@ -1,0 +1,19 @@
+form {
+    display: flex; /* aligne les éléments horizontalement */
+    flex-direction: column; /* aligne les éléments verticalement */
+    width: 450px;
+    height: 300px; /* marge autour du formulaire */
+    border: 2px solid black ;
+    padding: 20px;
+    
+    margin: 0 auto;
+    margin-top: 90px;
+
+  }
+  
+  label, input {
+     /* marge au-dessus et en dessous de chaque élément */
+     height: 30px;
+      border-radius: 15px;
+
+  }
